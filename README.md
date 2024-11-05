@@ -2,7 +2,7 @@
 
 ## Overview
 
-Welcome to my repository! This project includes all the tasks and projects I'm working on as part of the **Digital Egypt Pioneers Initiative** in the **Android Development Track**. Here, you’ll find examples, explanations, and code solutions for different tasks related to Android app development using Kotlin.
+Welcome to my repository! This project includes all the tasks and projects I work on as part of the **Digital Egypt Pioneers Initiative** in the **Android Development Track**. Here, I solve the required tasks.
 
 ---
 
@@ -15,7 +15,7 @@ The **Digital Egypt Pioneers Initiative** is a national program aimed at trainin
 ## Repository Structure
 
 - Each file or folder represents a specific task within the track.
-- Task names will be clear so that anyone can browse and understand the purpose of each task.
+- Task names are clear so that anyone can browse and understand the purpose of each task.
 
 ---
 
