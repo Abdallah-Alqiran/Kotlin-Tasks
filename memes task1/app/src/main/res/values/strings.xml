@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">memes task1</string>
+    <string name="head_line">Memes app</string>
+
+    <string name="meme1">Compiling first hour: I hate pragramming
+    after 3 hours: I hate programming
+    after 4 hours: I hate programming
+    after 10 hours: after solving the problem, I love programming
+    </string>
+
+    <string name="meme2">At the first: my code is working
+    after that: let me refactor it
+    after compiling: 258 bugs found!!
+    I hate programming</string>
+
+    <string name="my_name">My name is: Abdallah Alqiran</string>
+    <string name="my_age">My age is: 19</string>
+
+    <string name="about_me">I am a Computer Science student passionate about technology, innovation, and mobile app development. Currently in my second year at university, I focus on enhancing my problem-solving skills and learning Android development, specifically using Kotlin.\n\n
+I am also currently working as a mentor at SVU University, where I guide students who are building their problem-solving skills. This role allows me to share my knowledge and help others grow in the field.\nI
+Additionally, I have participated in the ECPC qualifications (Egyptian Collegiate Programming Contest) with my teammates, which helped us strengthen our collaborative and competitive programming skills.\n\n
+Beyond academics, I actively engage with the tech community, collaborating on projects and exchanging ideas, which further fuels my passion for software development and continuous learning.</string>
+
+    <string name="about">About Me:\n</string>
+
+</resources>
