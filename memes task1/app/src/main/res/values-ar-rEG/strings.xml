@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">ميمز</string>
+    <string name="head_line">تطبيق ميمز</string>
+
+    <string name="meme1">Compiling first hour: I hate pragramming
+    after 3 hours: I hate programming
+    after 4 hours: I hate programming
+    after 10 hours: after solving the problem, I love programming
+    </string>
+
+    <string name="meme2">At the first: my code is working
+    after that: let me refactor it
+    after compiling: 258 bugs found!!
+    I hate programming</string>
+
+    <string name="my_name">الاسم: عبدالله القِران</string>
+    <string name="my_age">العمر: 19 سنة</string>
+
+    <string name="about_me">أنا طالب في قسم علوم الحاسوب شغوف بالتكنولوجيا والابتكار وتطوير تطبيقات الهاتف المحمول. أنا حاليًا في السنة الثانية بالجامعة، وأركز على تعزيز مهاراتي في حل المشكلات وتعلم تطوير تطبيقات الأندرويد باستخدام لغة كوتلن.\n\n
+أعمل أيضًا حاليًا كمرشد في جامعة SVU، حيث أرشد الطلاب الذين يعملون على بناء مهاراتهم في حل المشكلات. يتيح لي هذا الدور مشاركة معرفتي ومساعدة الآخرين على النمو في هذا المجال.\n\n
+بالإضافة إلى ذلك، شاركت في التصفيات الخاصة بمسابقة ECPC (المسابقة المصرية للبرمجة للجامعات) مع زملائي في الفريق، مما ساعدنا على تقوية مهاراتنا في البرمجة التنافسية والعمل الجماعي.\n\n
+خارج المجال الأكاديمي، أشارك بنشاط في مجتمع التكنولوجيا، حيث أتعاون في مشاريع وأتبادل الأفكار، مما يعزز شغفي بتطوير البرمجيات والتعلم المستمر.
+</string>
+
+    <string name="about">معلومات عني:\n</string>
+
+</resources>
