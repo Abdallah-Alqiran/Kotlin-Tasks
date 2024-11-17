@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Simple Profile</string>
+    <string name="name">Abdallah Alqiran</string>
+    <string name="about_me">I am a Computer Science student passionate about technology, innovation, and mobile app development. Currently in my second year at university, I focus on enhancing my problem-solving skills and learning Android development, specifically using Kotlin.\n\n
+
+I am also currently working as a mentor at SVU University, where I guide students who are building their problem-solving skills. This role allows me to share my knowledge and help others grow in the field.\n\n
+
+Additionally, I have participated in the ECPC qualifications (Egyptian Collegiate Programming Contest) with my teammates, which helped us strengthen our collaborative and competitive programming skills.\n\n
+
+Beyond academics, I actively engage with the tech community, collaborating on projects and exchanging ideas, which further fuels my passion for software development and continuous learning.</string>
+
+    <string name="a_photo">Abdallah Alqiran\'s photo</string>
+    <string name="linkedin_account">go to Abdallah\'s linked in account</string>
+    <string name="github_account">go to Abdallah\'s git hub account</string>
+    <string name="codeforces_account">go to Abdallah\'s codeforces account</string>
+
+</resources>
