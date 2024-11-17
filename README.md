@@ -22,6 +22,8 @@ The **Digital Egypt Pioneers Initiative** is a national program aimed at trainin
 ## Contents
 
 - **Task 1:** Memes App – A simple project showcasing two memes with some basic text for practice.
+- **Task 2:** Set and Map task – A simple task using map and set for practice.
+- **Task 3:** Simple portofolio – A simple page that contain some informations about me using constraint layout.
 
 ---
 
