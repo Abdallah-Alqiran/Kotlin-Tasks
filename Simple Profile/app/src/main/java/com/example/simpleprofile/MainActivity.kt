@@ -4,6 +4,7 @@ import android.content.Intent
 import android.net.Uri
 import android.os.Bundle
 import android.widget.ImageView
+import android.widget.Toast
 import androidx.activity.enableEdgeToEdge
 import androidx.appcompat.app.AppCompatActivity
 
@@ -23,14 +24,17 @@ class MainActivity : AppCompatActivity() {
         codeforcesImage = findViewById(R.id.codeforces)
 
         linkedInImage.setOnClickListener {
+            Toast.makeText(this, "Opening linked in...", Toast.LENGTH_SHORT).show()
             openWebsite("https://www.linkedin.com/in/abdallah-alqiran/")
         }
 
         githubImage.setOnClickListener {
+            Toast.makeText(this, "Opening github...", Toast.LENGTH_SHORT).show()
             openWebsite("https://github.com/Abdallah-Alqiran")
         }
 
         codeforcesImage.setOnClickListener {
+            Toast.makeText(this, "Opening codeforces...", Toast.LENGTH_SHORT).show()
             openWebsite("https://codeforces.com/profile/Abdallah_Alqiran")
         }
 
